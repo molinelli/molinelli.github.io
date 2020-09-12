@@ -710,26 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-saosI3j3DN {
-  background: #ffffff;
-}
-.cid-saosI3j3DN .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-saosI3j3DN .mbr-figure {
-  margin: 0 auto;
-}
-.cid-saosI3j3DN figcaption {
-  position: relative;
-}
-.cid-saosI3j3DN figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-saosI3j3DN .image-block {
-    width: 100% !important;
-  }
+.cid-saovtNVYMs {
+  background-image: url("../../../assets/images/apple.gif");
 }
