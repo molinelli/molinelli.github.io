@@ -819,14 +819,53 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-saoBydMWzQ {
-  background-image: url("../../../assets/images/lena-kudryavtseva-rpih-z9ohmk-unsplash-2000x1333.jpg");
+.cid-saoSbSXIdj {
+  padding-top: 7rem;
+  padding-bottom: 4rem;
+  background-image: url("../../../assets/images/head-1-2000x600.png");
 }
-.cid-saoBydMWzQ .mbr-text,
-.cid-saoBydMWzQ .mbr-section-btn {
-  text-align: right;
+.cid-saoSbSXIdj .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
 }
-.cid-saoBydMWzQ .mbr-section-title {
-  text-align: right;
-  color: #ff6666;
+.cid-saoSbSXIdj .mbr-text,
+.cid-saoSbSXIdj .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
+}
+@media (max-width: 991px) {
+  .cid-saoSbSXIdj .mbr-section-title,
+  .cid-saoSbSXIdj .mbr-section-btn,
+  .cid-saoSbSXIdj .mbr-text {
+    text-align: center;
+  }
+}
+.cid-saoW0FT9xA {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-saoW0FT9xA .mbr-section-title,
+.cid-saoW0FT9xA .mbr-section-subtitle {
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-saoW0FT9xA .card:not(:nth-last-child(1)) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-saoW0FT9xA .card-wrapper {
+  border-radius: 4px;
+  background: #fafafa;
+}
+.cid-saoW0FT9xA .card-box {
+  padding: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-saoW0FT9xA .card-box {
+    padding: 1rem;
+  }
+}
+.cid-saoW0FT9xA .card-title {
+  text-align: center;
 }
