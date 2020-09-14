@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Molinelli - Vintage Clothing Online Shop",
+    "name": "Molinelli • Vintage Clothing & Accessories",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -39,7 +39,7 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/55-558627-hanger-svg-png-icon-free-download-clothes-hanger-128x67.png",
+    "favicon": "@PROJECT_PATH@/assets/images/hanger-128x74.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -48,14 +48,15 @@
     "gdpr": false,
     "uniqCompNum": 30,
     "versionPublish": "5.0.18",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Molinelli",
-        "meta_descr": "",
+        "title": "Molinelli • Vintage Clothing & Accessories",
+        "meta_descr": "Take a look around and you will find many treasures in our shop, including exclusive pieces from iconic brands like Yves Saint Laurent, Christian Dior, Prada, Burberry and Givenchy.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
